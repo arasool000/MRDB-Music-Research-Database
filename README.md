@@ -1,6 +1,6 @@
 # MRDB-Music-Research-Database
 
-To run the project:
+To run the project:<br/>
     (1) Install XAMPP (Make sure to include MySQL).<br/>
             https://www.apachefriends.org/index.html<br/>
     (2) Replace the htdocs folder in the XAMPP folder with the one in this Repo.<br/>
